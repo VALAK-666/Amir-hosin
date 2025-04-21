@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-decoration: none;
+    color: #333;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.arrow__left{
+    height: 20px;
+    margin-left: -350px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+.left-top__arrow{
+    border-radius: 0px 0px 5px 5px;
+}
+.container{
+    background-color: #ddddddb6;
+    width: 30%;
+    margin-left: 470px;
+}
+.follow__cards{
+    background-color: #ebebeb8e;
+    padding: 10px 0px 10px 10px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+.name__text{
+    padding: 5px 0px 0px 15px ;
+}
+.main__follower{
+    display: flex;
+    justify-content: space-between;
+}
+.get__text{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 500px;
+    margin-top: 8px;
+    margin-left: 210px;
+}
+.get__img{
+    padding: 5px;
+    color: white;
+    border-radius: 500px;
+    margin-top: 8px;
+    margin-left: 210px;
+}
